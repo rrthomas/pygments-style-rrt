@@ -18,4 +18,4 @@ classifiers = [
 ]
 
 [project.entry-points."pygments.styles"]
-rrt = "pygments_style_rrt.style:RrtStyle"
+rrt-latest = "pygments_style_rrt.style:RrtStyle"

@@ -20,7 +20,7 @@ class RrtStyle(Style):
     Minimalistic "rrt" theme, based on Zap and Emacs defaults.
     """
 
-    name = 'rrt'
+    name = 'rrt-latest'
 
     background_color = '#000000'
     highlight_color = '#0000ff'
