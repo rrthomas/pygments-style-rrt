@@ -4,7 +4,7 @@
 
     pygments "rrt" theme, based on Zap and Emacs defaults.
 
-    :copyright: Copyright 2006-2023 by the Pygments team, see AUTHORS.
+    :copyright: Copyright 2006-2025 by the Pygments team, see AUTHORS.
     :license: BSD, see LICENSE for details.
 """
 
@@ -35,7 +35,7 @@ class RrtStyle(Style):
         Name.Entity:        '#eedd82',
         Name.Function:      '#ffff00',
         Name.Variable:      '#eedd82',
-	Name.Tag:           '#7fffd4',
+        Name.Tag:           '#7fffd4',
         Name.Constant:      '#7fffd4',
         Keyword:            '#ff0000',
         Operator.Word:      '#ff0000',
